@@ -25,6 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 
 group :development, :test do
+  gem 'pry-rails', '~> 0.3.4'
   gem 'byebug'
   gem 'spring'
   gem 'rspec-rails'
